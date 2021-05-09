@@ -17,7 +17,7 @@ Product.belongsToMany(Tag, {
   foreignKey: 'product_id'
 })
 
-Tag.belongsToMany(Products, {
+Tag.belongsToMany(Product, {
   through: ProductTag,
   foreignKey: 'tag_id'
 })
