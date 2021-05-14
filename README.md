@@ -5,9 +5,8 @@
 1. [Description](#description)
 2. [Installation](#installation)
 3. [License](#license)
-4. [Contributing](#contributing)
-5. [Tests](#tests)
-6. [Questions](#questions)
+4. [Tests](#tests)
+5. [Questions](#questions)
 
 ## [Description](#description)
 This application utilizes Sequelize and configures a working Express.js API to interact with an e-commerce database.
