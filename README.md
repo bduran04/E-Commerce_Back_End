@@ -12,6 +12,8 @@
 ## [Description](#description)
 This application utilizes Sequelize and configures a working Express.js API to interact with an e-commerce database.
 
+Here is the full demonstration video for this app: https://drive.google.com/file/d/1EXdidXsKA72AMT25v6mbaucen7hA69iA/view
+
 ![This is the gif for the application](Assets/e-commerce.gif)`
 
 ## [Installation](#installation)
