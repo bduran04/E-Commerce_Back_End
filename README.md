@@ -17,14 +17,15 @@ Here is the full demonstration video for this app: https://drive.google.com/file
 ![This is the gif for the application](Assets/e-commerce.gif)`
 
 ## [Installation](#installation)
-To install necessary dependencies, run npm i. Be sure to create the database through downloading the data through the schema.sql file, and run node seeds to create the SQL database.
+To install necessary dependencies, run: npm i. 
+In order to create the schema: mysql -u root -p; Run DROP DATABASE IF EXISTS ecommerce_db; Run CREATE DATABASE ecommerce_db; then \q
+In order to seed the data, run: npm run seed
+In order to run the application, run: npm start
 
 
 ## [License](#license)
 This project is licensed under: 
 [None](https://choosealicense.com/licenses/none/)
-
-## [Contributing](#contributing)
 
 
 ## [Tests](#tests)
